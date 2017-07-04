@@ -1,5 +1,3 @@
 # hello-world
 hello world
-hahhhhhhhhhhhhhhhhhhhhhhh
-
-hello liping
+1
